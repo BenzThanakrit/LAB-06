@@ -109,3 +109,4 @@
 ``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
 
 ![](https://github.com/BenzThanakrit/LAB-06/blob/master/imgs/6.5.PNG?raw=true)
+![](https://github.com/BenzThanakrit/LAB-06/blob/master/imgs/6.6.PNG?raw=true)
