@@ -18,7 +18,7 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic1.png)
 
   2.2).	โปรแกรม และบันทึกผลที่ได้
-<hr>
+<hr> ![](https://github.com/BenzThanakrit/LAB-06/blob/master/imgs/6.1.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -26,7 +26,7 @@
 <hr>
 
 ###คำถาม 6.1 ถ้าพิมพ์ตัวอักษรจำนวนหลายๆ ตัวแล้วกด Enter จะได้ผลอย่างไร ทำไมจึงเป็นเช่นนั้น
-<hr>
+<hr>จะได้เเค่ค่าเดียว เพราะเป็น char
 <hr>
 <hr>
 <hr>
@@ -34,7 +34,7 @@
 <hr>
 
 ###คำถาม 6.2 ในบรรทัดที่ 11 ซึ่งมีโปรแกรมเป็น ```ch = (char)Console.Read();```  นั้น ถ้าตัด ```(char)``` ออกไป จะเกิดอะไรขึ้น ให้อธิบายประกอบ
-<hr>
+<hr> Error เพราะไม่มีการบอกชนิด
 <hr>
 <hr>
 <hr>
@@ -48,7 +48,7 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic2.png)
  
  3.2).	โปรแกรม และบันทึกผลที่ได้
-<hr>
+<hr> ![](https://github.com/BenzThanakrit/LAB-06/blob/master/imgs/6.2.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -62,7 +62,7 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic3.png)
 
 4.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
-<hr>
+<hr>![](https://github.com/BenzThanakrit/LAB-06/blob/master/imgs/6.3.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -70,7 +70,7 @@
 <hr>
 
 ###คำถาม 6.3 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น มีวิธีการป้องกันหรือแก้ไขอย่างไร
-<hr>
+<hr> จะเกิดerrorขึ้น ต้องใช้ฟังชั่น try เข้ามาช่วย
 <hr>
 <hr>
 <hr>
@@ -84,7 +84,7 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic4.png)
 
   5.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
-<hr>
+<hr>![](https://github.com/BenzThanakrit/LAB-06/blob/master/imgs/6.4.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -92,7 +92,7 @@
 <hr>
 
 ###คำถาม 6.4 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น เหมือนหรือต่างจากโปรแกรมก่อนหน้านี้อย่างไร
-<hr>
+<hr>จะมีการเเจ้งเตือนว่าต้องป้อนเเบบใด
 <hr>
 <hr>
 <hr>
@@ -107,3 +107,5 @@
 ``` ID : (ป้อนรหัสนักศึกษา).```
 
 ``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
+
+![](https://github.com/BenzThanakrit/LAB-06/blob/master/imgs/6.5.PNG?raw=true)
